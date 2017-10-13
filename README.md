@@ -66,6 +66,7 @@ An 'Awesome List' of companies to contact when looking for sponsorship for a hac
 | 🎗️ | [Telcom](https://telcom.io/) | Superfast internet for the UK.    |
 | 🎗️ | [Space 48](https://www.space48.com/) | Magento Enterprise Solutions Partners & Ecommerce Agency.    |
 | 🎗️ | [Morgan Stanley](https://www.morganstanley.com/) | Global financial services firm.|
+| 🎗️ | [hackajob](https://hackajob.co/) | Online job marketplace.|
  
 
  
